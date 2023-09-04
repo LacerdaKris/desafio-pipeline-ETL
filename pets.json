@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6665,
+    "name": "Pucca",
+    "specie": "cat",
+    "birth": "01/12/2014",
+    "weight(kg)": 4,
+    "description": "frajola black and white",
+    "owner": {
+      "phone": "989195151",
+      "tutor": "Cristine Lacerda",
+      "email": "cristinelacerda@protonmail.com",
+      "payment": "card"
+    },
+    "news": [
+      {
+        "id": 0,
+        "type": "new or promotional",
+        "description": "example"
+      },
+      {
+        "id": 1,
+        "type": "new",
+        "description": "Recado aos pais do pet: Pucca...\n Seu peludo merece um tratamento especial! Agende agora a tosa e deixe-o ainda mais lindo."
+      }
+    ]
+  },
+  {
+    "id": 6666,
+    "name": "Ozzy",
+    "specie": "cat",
+    "birth": "01/04/2021",
+    "weight(kg)": 2.5,
+    "description": "siames beige and brown",
+    "owner": {
+      "phone": "989195757",
+      "tutor": "Alice Gomes",
+      "email": "aliceg@gmail.com",
+      "payment": "card"
+    },
+    "news": [
+      {
+        "id": 0,
+        "type": "new or promotional",
+        "description": "example"
+      },
+      {
+        "id": 1,
+        "type": "new",
+        "description": "Recado aos pais do pet: Ozzy...\n Queremos entender o estilo do seu pet... Agende uma tosa personalizada para combinar com a personalidade dele."
+      }
+    ]
+  },
+  {
+    "id": 6667,
+    "name": "Jack",
+    "specie": "dog",
+    "birth": "12/02/2019",
+    "weight(kg)": 8,
+    "description": "lulu black and gray",
+    "owner": {
+      "phone": "989118888",
+      "tutor": "Daniel Lauxen",
+      "email": "daniellauxen@gmail.com",
+      "payment": "cash"
+    },
+    "news": [
+      {
+        "id": 0,
+        "type": "new or promotional",
+        "description": "example"
+      },
+      {
+        "id": 1,
+        "type": "new",
+        "description": "Recado aos pais do pet: Jack...\n Seu peludo merece um tratamento especial! Agende agora a tosa e deixe-o ainda mais lindo."
+      }
+    ]
+  },
+  {
+    "id": 6668,
+    "name": "Paul Anka",
+    "specie": "dog",
+    "birth": "30/08/2017",
+    "weight(kg)": 16,
+    "description": "srd lon hair brown",
+    "owner": {
+      "phone": "989999999",
+      "tutor": "Lorelai Gilmore",
+      "email": "lorelai@gmail.com",
+      "payment": "cash"
+    },
+    "news": [
+      {
+        "id": 0,
+        "type": "new or promotional",
+        "description": "example"
+      },
+      {
+        "id": 1,
+        "type": "new",
+        "description": "Recado aos pais do pet: Paul Anka...\n Traga seu pet para um dia de spa conosco. Banho e cuidados especiais o esperam!"
+      }
+    ]
+  }
+]
