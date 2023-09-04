@@ -1,2 +1,3 @@
-# desafio-pipeline-ETL
-Desafio de pegar dados num arquivo json, e incluir mensagens diferentes pra cada cadastro conforme sugestões do chatGPT ou um arquivo csv
+# desafio Explorando IA Generativa em um Pipeline de ETL com Python
+Optei por gerar um arquivo json próprio com cadastro de animais e seus donos numa petshop, após gerando mensagens diferentes pra cada cadastro conforme sugestões do chatGPT que salvei em arquivo csv. Pra cada vez que o código roda, uma mensagem personalidada é gerada com id maior que a última, e incluída ao cadastro do pet pra que possa ser usada em envio de marketing por e-mail ou SMS.
+O arquivo para testar o tipo de dados do csv foi para correção de um erro por não ser no padrão UTF-8, então precisava saber o tipo exato pra incluir na linha de leitura.
